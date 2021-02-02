@@ -1,0 +1,6 @@
+d d p s s
+f f es s s
+d d d d d
+f f f f f
+A a 011 01111 X
+c c c c c
